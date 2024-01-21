@@ -21,19 +21,15 @@ def find_entity_bbox(results, entity):
     return None
 
 def main(image_path):
-    # Extract text using OCR
     ocr_results = extract_text(image_path)
 
-    # Detect objects using object detection
     object_bbox, object_labels = detect_objects(image_path)
 
-    # Find bounding box for specific entities
     invoice_number_bbox = find_entity_bbox(ocr_results, "invoice number")
     issue_date_bbox = find_entity_bbox(ocr_results, "issue date")
     total_amount_bbox = find_entity_bbox(ocr_results, "total amount")
     table_bbox = find_entity_bbox(ocr_results, "table")
 
-    # Draw bounding boxes on the image
     image = cv2.imread(image_path)
     draw_bbox(image, object_bbox, object_labels)
     if invoice_number_bbox:
