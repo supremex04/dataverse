@@ -4,14 +4,12 @@ import base64
 import requests
 
 api_key = "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"
-image_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files\\56415ebf-98cc-4050-a4eb-58de6c5d22bf.jpg"
+image_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files\\5f5f7af4-933d-47f6-9fe0-ab05eab6ef71.jpg"
 
-# Function to encode the image
 def encode_image(image_path):
   with open(image_path, "rb") as image_file:
     return base64.b64encode(image_file.read()).decode('utf-8')
 
-# Getting the base64 string
 base64_image = encode_image(image_path)
 
 headers = {
@@ -27,8 +25,7 @@ payload = {
         "content": [
             {
                 "type": "text",
-                # "text": "What is in this image?"
-                "text": "This is a representation of invoice. I need three things, titles and product detail and technical detail (all in short cut).Both should be to the point without explanations. The output should be in key: value pair of Titles:, Product Details: and Technical Details: . All key and values within '' and the three main keys separated by comma. The invoice has a main section, generally at the middle, in a table. If there is a table, it has several columns and columns have title. If it doesnt have a table, its well fromatted into columns and columns have title. Give me the title of those columns. And the product detail, quantity and any other techical detail mentioned generally in the table."            },
+                "text": "This is a representation of invoice. It has Invoice Number(bill number or receipt number), Invoice Date(Billing date) and the main table which has most of the information about purchase. Provide me the bounding box of these three things in the format of Invoice Number: Invoice Date: Total bbox: and Table bbox:"},
             {
                 "type": "image_url",
                 "image_url": {

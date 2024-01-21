@@ -1,55 +1,39 @@
-import cv2
 import easyocr
-import cvlib as cv
-from cvlib.object_detection import draw_bbox
-# image_path = "/home/samriddhi/Documents/DV_trainimg/0d3e37dd-23db-4d97-b3e4-50486901c527.jpg"
+import cv2
 
-def extract_text(image_path):
-    reader = easyocr.Reader(['en'])
-    result = reader.readtext(image_path)
-    return result
+reader = easyocr.Reader(['en'], gpu=True)
+img_path = '/home/samriddhi/Documents/DV_trainimg/9c8af380-546d-46dd-b78e-af791f27ab2f.png'
+img = cv2.imread(img_path)
 
-def detect_objects(image_path):
-    image = cv2.imread(image_path)
-    bbox, label, conf = cv.detect_common_objects(image)
-    return bbox, label
+results = reader.readtext(img, detail=1, paragraph=False)
 
-def find_entity_bbox(results, entity):
-    for (bbox, text) in results:
-        if entity.lower() in text.lower():
-            return bbox
-    return None
+keywords_to_filter = ["Total","Date","No.","Invoice Total", "Invoice Date", "Due Date", "Invoice #"]
 
-def main(image_path):
-    ocr_results = extract_text(image_path)
+keyword_bboxes = {}
 
-    object_bbox, object_labels = detect_objects(image_path)
+for i, (bbox, text, prob) in enumerate(results):
+    text = "".join([c if ord(c) < 128 else "" for c in text]).strip()
 
-    invoice_number_bbox = find_entity_bbox(ocr_results, "invoice number")
-    issue_date_bbox = find_entity_bbox(ocr_results, "issue date")
-    total_amount_bbox = find_entity_bbox(ocr_results, "total amount")
-    table_bbox = find_entity_bbox(ocr_results, "table")
+    # Check if the recognized text is in the list of keywords
+    if any(keyword.lower() in text.lower() for keyword in keywords_to_filter):
+        # Extract the value to the right or below
+        if i + 1 < len(results):
+            value_bbox, _, _ = results[i + 1]
 
-    image = cv2.imread(image_path)
-    draw_bbox(image, object_bbox, object_labels)
-    if invoice_number_bbox:
-        cv2.rectangle(image, (invoice_number_bbox[0][0], invoice_number_bbox[0][1]),
-                      (invoice_number_bbox[2][0], invoice_number_bbox[2][1]), (0, 255, 0), 2)
-    if issue_date_bbox:
-        cv2.rectangle(image, (issue_date_bbox[0][0], issue_date_bbox[0][1]),
-                      (issue_date_bbox[2][0], issue_date_bbox[2][1]), (0, 255, 0), 2)
-    if total_amount_bbox:
-        cv2.rectangle(image, (total_amount_bbox[0][0], total_amount_bbox[0][1]),
-                      (total_amount_bbox[2][0], total_amount_bbox[2][1]), (0, 255, 0), 2)
-    if table_bbox:
-        cv2.rectangle(image, (table_bbox[0][0], table_bbox[0][1]),
-                      (table_bbox[2][0], table_bbox[2][1]), (0, 255, 0), 2)
+            keyword_bboxes[text] = value_bbox
 
-    # Display the image
-    cv2.imshow("Bounding Boxes", image)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+for bbox in keyword_bboxes.values():
+    (tl, tr, br, bl) = bbox
+    tl = (int(tl[0]), int(tl[1]))
+    tr = (int(tr[0]), int(tr[1]))
+    br = (int(br[0]), int(br[1]))
+    bl = (int(bl[0]), int(bl[1]))
+    cv2.rectangle(img, tl, br, (0, 255, 0), 2)
 
-if __name__ == "__main__":
-    image_path = 'C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files\\00524b56-4fe9-4fa4-b154-23394b827c86.png'  # Replace with the path to your image
-    main(image_path)
+
+cv2.imshow("Image", img)
+cv2.waitKey(0)
+
+print("Keyword and Bounding Box Coordinates:")
+for keyword, bbox in keyword_bboxes.items():
+    print(f"{keyword}: {bbox}")
