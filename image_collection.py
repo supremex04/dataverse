@@ -16,9 +16,9 @@ def get_image_paths(folder_path, extensions=('jpg', 'jpeg', 'png', 'gif', 'bmp')
     return image_paths
 
 # Example usage
-folder_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files"
+folder_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\test-20240120T143754Z-001\\test\\files"
 image_paths = get_image_paths(folder_path)
-print(os.listdir(folder_path))
+# print(os.listdir(folder_path))
 # Print the paths or use them as needed
 img_list = []
-# print(image_paths)
+print(image_paths)
