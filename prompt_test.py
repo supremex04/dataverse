@@ -3,7 +3,7 @@ from openai import OpenAI
 import base64
 import requests
 
-api_key = "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"
+api_key = ""
 image_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files\\5f5f7af4-933d-47f6-9fe0-ab05eab6ef71.jpg"
 
 def encode_image(image_path):
