@@ -5,7 +5,7 @@ from sort import encode_image
 from sort import addtotxt
 import os
 # OpenAI API Key
-api_key = "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"
+api_key = ""
 
 folder_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\train-20240120T143828Z-001\\train\\files"
 names = os.listdir(folder_path)
