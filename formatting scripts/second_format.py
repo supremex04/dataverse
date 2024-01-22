@@ -4,12 +4,12 @@ from image_collection import get_image_paths
 folder_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\test-20240120T143754Z-001\\test\\files"
 image_paths = os.listdir(folder_path)
 print(image_paths)
-existing_csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\testtablekeys.csv"
+existing_csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\extractions\\testtablekeys.csv"
 
-new_csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\testtablekeyswithname.csv"
+new_csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\extractions\\testtablekeyswithname.csv"
 
 new_header_name = "Image name"
-new_item_value = "New Item Value"
+new_item_value = ""
 
 existing_data = []
 with open(existing_csv_file_path, 'r', newline='', encoding='utf-8') as existing_csv_file:

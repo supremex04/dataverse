@@ -1,0 +1,156 @@
+title,invoice_number,issue_date,table,total,vendor,invoice_number_bbox,issue_date_bbox,table_bbox,total_bbox
+0869be20-07ec-40c9-be93-fe9d6b0ae5dd.jpeg,,18-Jul-22,"ITEM NAME, UNITS, RATE, TOTAL
+Item name, Item name, Item name
+Quantity: 2, 1, 3; Rate: $450.00, $300.00, $500.00; Subtotal: $2,700.00; Discount: -$100.00; Tax: 10.0%; Total Amount: $2,860.00 USD
+","$2,860.00 USD",Bright Consulting LLC.,"[[81, 861], [161, 861], [161, 875], [81, 875]]","[[77, 363], [165, 363], [165, 383], [77, 383]]",,"[[605, 753], [721, 753], [721, 773], [605, 773]]"
+0b6fcb50-b157-4457-b3a3-06779f91b8b8.jpg,4631508,13-May-13,"Line No., Line No., Description, Quantity, Unit Price, Total Amount
+2088 Pressure Transmitter, 1 EA, 1,435.20
+Export HTS:9-9026.20400, ECCN:EAR99, License:NLR, Country of Origin:UNITED STATES, Serial Number:0521160
+","1,445.99",ROSEMOUNT INC.,"[[889, 1449], [1135, 1449], [1135, 1467], [889, 1467]]","[[229, 975], [281, 975], [281, 991], [229, 991]]",,"[[1073, 1295], [1139, 1295], [1139, 1315], [1073, 1315]]"
+151d0d84-bfb4-4338-8839-90d69a1a3074.png,INCO-3764-CIRA-5789,18-Jun-17,"Description of Goods, Unit Quantity, Price, Amount
+Lightbulb 2 x 37 watt (Quantity: 1000, Price: 4.00), Elecwire 20m (Quantity: 450, Price: 28.00), Cable wire 40m (Quantity: 70, Price: 482.00)
+nan
+",50340,The Electric Shop,"[[380, 854], [425, 854], [425, 868], [380, 868]]","[[468, 764], [490, 764], [490, 772], [468, 772]]",,"[[441, 733], [531, 733], [531, 745], [441, 745]]"
+19d98817-caf1-4e5a-b8b2-22881ecef5d4.png,2017-40,20-07-2017,"No., Name, Qty, Rate, Disc., Taxable Amount, IGST %, IGST Amt, CGST %, CGST Amt, SGST %, SGST Amt, Cess
+GST Registration - Standard Package, Quantity: 1, Rate: 4152
+Taxable Amount: 4152, IGST: 0%, IGST Amt: 0, CGST: 9%, CGST Amt: 373.68, SGST: 9%, SGST Amt: 373.68, Cess: 0
+",4899.36,VERVE Financial Services Private Limited,"[[141, 541], [185, 541], [185, 557], [141, 557]]","[[83, 165], [173, 165], [173, 185], [83, 185]]",,"[[805, 853], [863, 853], [863, 873], [805, 873]]"
+21dd0238-661b-4d4a-8d6f-8b7717d229fc.png,0219-0001,3-Jul-15,"Date, Consultant, Service Provided, Time, Venue, Comments, Quantity, Item, Description, Vendor, Unit Price, Total
+1 hr massage, Gift of massage therapy to recover from stress of conversation, MAA
+60 minutes, Teleconference, Tutorial on white privilege, 1, $70.00, $70.00
+",70,"Racial Ambassadors, Ltd.","[[220, 464], [312, 464], [312, 488], [220, 488]]","[[267, 679], [365, 679], [365, 699], [267, 699]]",,"[[1132, 1438], [1184, 1438], [1184, 1462], [1132, 1462]]"
+281dec77-e364-494e-9a67-0d862b5a509e.png,#00121,8-Apr-15,"Description, Qty, Unit Price, Amount
+Brochure Design, Pamphlet Design, Web Banner Design
+Quantity: 1 each, Unit Prices: 50.00, 100.00, 120.00 respectively
+",270,ZYLKAR CORPORATION,"[[177, 271], [221, 271], [221, 287], [177, 287]]","[[47, 293], [91, 293], [91, 309], [47, 309]]",,"[[635, 603], [695, 603], [695, 621], [635, 621]]"
+292518c6-bfd4-4096-92a1-7df63faf0860.png,CIV-000676 000007-1,30-Nov-19,"Sl No
+Asus 16.6 inch Monitor
+10 Nos, 6,200.00 Nos
+","321,113.52",Contoso Suites,"[[351, 985], [373, 985], [373, 997], [351, 997]]",,,"[[675, 621], [739, 621], [739, 637], [675, 637]]"
+2a8677b9-b29e-4c93-86e5-56d4c38cb7fc.jpg,1,19-Nov-20,"Product, Price, Quantity, Tax rate, VAT, Total
+Beanie with Logo, Belt, Cap
+SKU: Woo-beanie-logo, SKU: woo-belt, SKU: woo-cap
+","₹ 62,000.00",Max Electronics,"[[453, 681], [491, 681], [491, 695], [453, 695]]","[[19, 115], [47, 115], [47, 129], [19, 129]]",,
+2ec7883e-dafe-4cc3-9836-7314ace98c14.png,2022/000323,7-Jul-22,"Invoice Date, Order Date, SO Number, Ordered By, Customer PO Number, Payment Method, Warehouse, Ship Via, F.O.B., Salesperson, Resale Number, Order Quantity, Ship Quantity, Tax, Item Number / Description, U of M, Unit Price, Extended Price
+AEROCHAIR-E1 Aero E1 Executive Tile Chair, CHAIR-SW Office Chair - Swivel Grey
+Order Quantity (10, 5), Ship Quantity (5, Y), Tax (Y), Unit Measure (Each, Set of 2, Set of 4), Unit Price ($500.00, $478.00, $699.00), Extended Price ($2,500.00, $2,390.00, $3,495.00)
+",$141.90 ,My Awesome Store,"[[483, 189], [507, 189], [507, 203], [483, 203]]","[[483, 227], [507, 227], [507, 241], [483, 241]]",,"[[577, 633], [623, 633], [623, 647], [577, 647]]"
+3e2ef304-3cb7-4452-87b8-102bea1c2908.jpg,30037,1/10/2017,"Description, Quantity, Rate, Options, Total
+In-flight Pilot Training (Quantity: 05, Rate: $49.99), Preflight Briefing (Quantity: 05, Rate: $09.99), Post Flight Briefing and Evaluation (Quantity: 05, Rate: $09.99)
+Invoice Date: 7/9/2015, Amount Due: $349.85, Sub Total: $349.85, Total: $349.85, Paid: $100.00, Owed: $249.85, Notes: Add 15% discount for group rate.
+","3,885.00","National Office Supply, Inc.","[[244, 722], [388, 722], [388, 750], [244, 750]]","[[418, 722], [570, 722], [570, 750], [418, 750]]",,"[[878, 1804], [968, 1804], [968, 1834], [878, 1834]]"
+4907a532-bf75-4bc4-a08c-06f9d3f00306.png,1,7/9/2015,"Quantity, Description, Unit Price, Ext Price
+1 Certificate OWN C, 1 ASME Consultant(s) Expenses, 1 ASME Consultant(s) Services
+Conducted July 25-26, 2012
+",$349.85 ,Bill Flight,"[[61, 807], [251, 807], [251, 825], [61, 825]]","[[43, 227], [123, 227], [123, 247], [43, 247]]",,"[[733, 605], [785, 605], [785, 621], [733, 621]]"
+4cfc9619-5dd4-4307-90b6-04d20ba6db3b.jpg,CRM12345,9/20/2012,"PIECES, PACKAGE, DIMENSIONS, DESCRIPTION, WEIGHT, VOLUME
+10 LD-11 PALLET (ATA TYPE 6), 50 BOX, 500 BOX, 50 PALLET - paper, Locomotive Parts, Iphone x, motor
+500.000 kg, 77.600 m3, 1020.000 kg, 4.100 ft3, 10206.000 kg, 41.100 ft3, 15000.000 kg, 53.100 ft3
+","$4,435.50 ",The American Society of Mechanical Engineers,"[[290, 744], [350, 744], [350, 752], [290, 752]]","[[659, 105], [729, 105], [729, 121], [659, 121]]",,"[[679, 547], [735, 547], [735, 559], [679, 559]]"
+4d972974-e804-4c67-af7c-071b16d1d35a.png,PD004918,9/26/2018,"#, ITEM NAME, QTY, PRICE/UNIT, DISCOUNT/UNIT, GST, AMOUNT
+1. Back-end services, 80 hrs, ₹72000.00, ₹0.00, ₹0.00, ₹80,000.00; 2. AWS Maintenance and set-up, 40 hrs, ₹20000.00, ₹0.00, ₹0.00, ₹40,000.00
+SUBTOTAL ₹1,20,000.00, GST ₹0.00, TOTAL DUE ₹1,20,000.00
+",200,Linbis Logistics Software,"[[717.4700010599968, 110.15200169599491], [745.9453729816263, 113.6740093166806], [743.5299989400032, 127.84799830400509], [715.0546270183737, 124.3259906833194]]",,,"[[687, 663], [713, 663], [713, 677], [687, 677]]"
+522a7c5f-166c-479f-8801-10d43d83a3b9.png,CT00000001,10-Oct-20,"Product, Quantity, Unit price, Subtotal
+Apple®-iPad® with Retina® display Wi-Fi - 32GB - White, Recreational Flying Headset
+CODE: I0241GCXF9, 3G Connectivity: No, Memory capacity: 16GB, CODE: rf250
+","₹1,20,000.00",Ninja Turtle Industries,"[[39, 305], [169, 305], [169, 317], [39, 317]]","[[321, 111], [403, 111], [403, 125], [321, 125]]",,"[[601, 701], [689, 701], [689, 717], [601, 717]]"
+608cb44c-46b7-405e-acfa-1bb8ed4e9cf8.jpg,100,27/02/2014,"Description, Quantity, Unit Price, Cost
+RXT-1 (1st installment, 10% of total purchase)
+Quantity: 1, Unit Price: $5,475.00, Cost: $5,475.00
+",$635.90 ,Clear Prop,"[[93, 683], [165, 683], [165, 697], [93, 697]]","[[15, 173], [169, 173], [169, 187], [15, 187]]",,"[[617, 621], [649, 621], [649, 635], [617, 635]]"
+69b77ea7-6f8a-4eba-9568-8c33136879c3.jpeg,1,10/22/2020,"DESCRIPTION, HOURS, RATE, TOTAL
+WEDDING PHOTOSHOOT IN WACO, TEXAS AT THE WOOD HOMESTEAD BARNHOUSE, PHOTO EDITING FOR UP TO 30 IMAGES, DIGITAL IMAGES UPLOADED TO DROPBOX FOR CLIENT REVIEW, OTHER SERVICES
+8, 4, 1, 4; $150/HR, $150/HR, $150/HR, $150/HR; $1,200 USD, $600 USD, $150 USD, $600 USD
+","$5,475.00 ",STRYK,"[[243, 865], [325, 865], [325, 881], [243, 881]]",,,"[[647, 711], [709, 711], [709, 725], [647, 725]]"
+6a620b62-167a-466e-961d-63cac09ba563.jpg,NO. 001,15-Oct-18,"QUANTITY, DESCRIPTION, UNIT PRICE, AMOUNT
+120 Widgets, 1000 Tin Badges
+6.00% Sales Tax Rate, $10.00 Unit Price for Widgets, $100 Unit Price for Tin Badges, $1,200.00 Amount for Widgets, $1,000.00 Amount for Tin Badges
+",$2550 USD,JUSTIN PAGE-WOOD PHOTOGRAPHY,"[[879, 457], [947, 457], [947, 473], [879, 473]]","[[255, 483], [393, 483], [393, 499], [255, 499]]",,"[[833, 1069], [877, 1069], [877, 1083], [833, 1083]]"
+6fab0ac5-e856-43af-a2ed-621d1a15818a.png,1,6-Jul-12,"DATE, EXPLANATION OF ACTIVITY, CHARGES, INSURANCE PAYMENT, INSURANCE PENDING, PATIENT PAYMENTS
+Balance Forward, Payment Check
+05/18/12, 07/08/12, 07/19/12, 7149.85, 2112.06, 0.00, 4998.14
+","$2,407.00 ",SimeyC,"[[769, 217], [831, 217], [831, 237], [769, 237]]","[[766, 170], [858, 170], [858, 194], [766, 194]]",,"[[4, 1056], [110, 1056], [110, 1080], [4, 1080]]"
+70de9d18-4aff-40bc-b60a-db7dec2b5af7.jpg,33984,8/7/2012,"Product, Price, Quantity, Line Total
+Flying Ninja, Happy Ninja, Woo Ninja
+£12.00, 6, £72.00; £18.00, 1, £18.00; £15.00, 2, £30.00
+",39.65,JEFFERSON HEALTHCARE,"[[135, 865], [157, 865], [157, 879], [135, 879]]","[[569, 459], [623, 459], [623, 473], [569, 473]]",,"[[451, 825], [509, 825], [509, 839], [451, 839]]"
+72c641c1-d057-48ab-9d1f-2abb143c691d.png,BS 10009,11/6/2013,"S.No., Parts/OP code, Part Labor Description, HSN/SAC, Tax%, Qty, Rate/Unit, Disc Amt, Amount
+PAD KIT-FRONT DISC BRAKE, FILTER CARTRIDGE, SERVICE KIT-OIL FILTER, FILTER-AIR CLEANER, SYNTHETIC ENGINE OIL IOCL
+Labour and Services, Engine Cleaning/Dressing Large, EGR cleaner, Periodic Maintenance Service (PMS), Dry wash (FOC), Service Pro Large, Pick & Drop on FOC
+",£120.00,"Best Shop, Ltd.","[[683, 237], [749, 237], [749, 253], [683, 253]]","[[683, 237], [749, 237], [749, 253], [683, 253]]",,"[[687, 497], [745, 497], [745, 513], [687, 513]]"
+77502028-18e6-4a51-9b7d-0cc5f4a68726.jpg,S1405G202003284,49:27.0,"Full Description of Goods 8, Customs Commodity Code 9, Country of Manufacture 10, Qty. 11, Unit Value 12, Subtotal Value and Currency 13
+Populated Printed Circuit Board, 10 Pcs, Laser Imaging Assembly, 2 Pcs
+HTS #8473.30, Manufactured in South Korea, HTS #8473.30, Manufactured in Mexico
+",15576,Kun Auto Company Pvt. Ltd.,"[[555, 1283], [937, 1283], [937, 1301], [555, 1301]]","[[149, 569], [315, 569], [315, 587], [149, 587]]",,"[[711, 1965], [755, 1965], [755, 1981], [711, 1981]]"
+77ed1272-512c-4389-8a38-3798084cb073.png,US-001,11/2/2019,"ITEM NAME, HSN/SAC, QTY, PRICE/ UNIT, DISCOUNT/ UNIT, GST, AMOUNT
+Herman Miller Executive Chair, VG248 QE 24 Monitor
+HSN 34929, QTY 12 Pcs, PRICE ₹100.00, GST 12%, HSN 34174, QTY 12 Pcs, PRICE ₹100.00, GST 12%
+",$154.06 ,East Repair Inc.,"[[599, 521], [659, 521], [659, 541], [599, 541]]","[[593, 315], [659, 315], [659, 329], [593, 329]]",,"[[599, 521], [659, 521], [659, 541], [599, 541]]"
+7b450c61-a83d-4843-8404-0828b0d62891.jpg,1234567894,5-Feb-05,"Product, Cost, Qty, Disc, Total
+Item description
+Cost: $500.00, Qty: 1, Disc: 15%, Total: $425.00
+","$USD 1,150",,"[[210, 396], [294, 396], [294, 402], [210, 402]]",,,"[[551, 577], [613, 577], [613, 593], [551, 593]]"
+8e00367b-25b3-401b-bf8e-e1cfc801e4ae.png,GE/3847/20-2013,10/10/2020,"Sl No, Description of Goods, Quantity, Rate, per, Amount
+Asus 16.6 inch Monitor
+15 Nos, 6200.00, 93,000.00
+","₹3,600.00",Ninja Turtle Industries,"[[461, 903], [533, 903], [533, 917], [461, 917]]","[[629, 89], [683, 89], [683, 101], [629, 101]]",,"[[609, 929], [697, 929], [697, 949], [609, 949]]"
+9b650c90-ad5c-4f07-b04a-b58e33318398.jpg,GS00000001,1/1/2008,"Product, Quantity, Price
+Simple product, SKU: Simple01
+Quantity: 1, Price: €100.00, Shipping: €10.00 via Flat Rate, Low 10% VAT: €11.00, Payment Method: Cash on Delivery, Order Total: €121.00
+",$467.50 ,GRICE SAFETY PTY LIMITED,"[[299, 763], [361, 763], [361, 777], [299, 777]]",,,"[[495, 529], [537, 529], [537, 543], [495, 543]]"
+9d396ae4-7abe-4aa5-8481-11df722e49c7.jpg,37,19-Nov-20,"S.no, Item, Checked parameters, Remarks
+Wall Mounting, Connection tightness, Feeder MCB make & rating, Feeder input cable rating, Power cable rating, Power cable actual length, Earthing Available, Earthing wire type, Earthing wire actual Length, Any loose connections, Mains Input I-L-N, Mains Input PE-N
+3.5Sqmm RECCA, 32Amps, 23mtrs, 9.55qmm BLACK, 20.6mtrs, R-Y-B, O-Y-B, Earth-pit, Energy Meter, RCCB, etc.
+","93,000.00",Max Electronics,"[[10, 682], [38, 682], [38, 690], [10, 690]]","[[9, 37], [89, 37], [89, 51], [9, 51]]",,
+a7e533f9-fea3-453e-b135-6b6d9d3c63a6.jpg,48,18/12/2014,"DATE, EMPLOYEE, DESCRIPTION, HOURS, RATE, AMOUNT
+Professional Services: Pickup Redline Corrections, Client Meeting, Elevations; Expenses: Copies
+Total Services: 12.50 Hours, Total Expenses: $6.50, Total Amount Due Including This Invoice: $6,999.24
+",€121.00,Aelia – Test Shop,"[[174, 612], [330, 612], [330, 642], [174, 642]]","[[524, 612], [676, 612], [676, 642], [524, 642]]",,"[[1352, 1444], [1460, 1444], [1460, 1476], [1352, 1476]]"
+aacc330f-a0ad-4248-bce9-9eab83818e2b.jpg,,,"Sr. No, Part No/Job Code, Particulars, Type, UoM, Qty, Rate(Rs), Disc. (%), VAT %, VAT (Rs), Amount(Rs)
+72103J, AJUST DOOR LINKS FOE R ACK DOOR CHECK DOLOR L UCK & SETTING DUNE, FREESERVI, EACH, 1, PAID
+STANDARD CHECKS (TEFLO N COATING DONE ), STANDARD CHECKS( GENERAL FAST FREE UP DONE), STANDARD CHECKS(SERVICE PLUS)
+",,TATA POWER,"[[336, 636], [402, 636], [402, 642], [336, 642]]","[[110, 216], [132, 216], [132, 224], [110, 224]]",,
+b06572e1-a3c6-43a8-8e33-a2d8b5669da3.png,1227,10/9/2020,"Sl No, Particulars, Quantity, Rate, per, Amount
+Repairs and Maintenance Charges
+Quantity Not Specified, Rate 7,000.00
+","$2,231.96 ",BQE Core Architecture,"[[1217, 1503], [1251, 1503], [1251, 1519], [1217, 1519]]","[[767, 1203], [883, 1203], [883, 1221], [767, 1221]]",,"[[1178, 1326], [1276, 1326], [1276, 1352], [1178, 1352]]"
+b33b5ce3-4ff8-4c88-aa43-137875bcb754.jpg,JC-Was@t-011-01504,6/12/2010,"Description of Goods, Tariff Code, Country of Origin, Quantity, Unit £, Total £
+AL-D-6 Alison Tunic - Size: 6, AL-D-8 Alison Tunic - Size: 8, AL-D-10 Alison Tunic - Size: 10, AL-D-12 Alison Tunic - Size: 12, AL-D-14 Alison Tunic - Size: 14, AN-D-6 Angie Dress - Size: 6, AN-D-8 Angie Dress - Size: 8, AN-D-10 Angie Dress - Size: 10, AN-D-12 Angie Dress - Size: 12, AN-D-14 Angie Dress - Size: 14, 100% Cotton
+62044220, United Kingdom, Quantity varies per item (1-6), Unit £25.00, Total £ varies per item (£25.00-£150.00)
+",6426,WASAN MOTORS PVT LTD,"[[71, 2758], [751, 2758], [751, 2802], [71, 2802]]","[[154, 2719], [428, 2719], [428, 2763], [154, 2763]]",,"[[2229, 2382], [2383, 2382], [2383, 2427], [2229, 2427]]"
+c4141ea0-72cc-46f8-826f-a5d80451f8e5.jpg,38,19-Nov-20,"Description, Amount
+DJ & MC Performance, Equipment & Lightning, Videography, Photo Booth
+Duration: 5 Hour, Number of Participants: 51-80, Duration: 5 Hour, Duration: 5 Hour
+","7,000.00",Max Electronics,"[[321.3902892391503, 84.2073760108954], [343.95667388042887, 87.7088383842173], [341.6097107608497, 98.7926239891046], [319.04332611957113, 95.2911616157827]]",,,
+cdfb3904-b918-4b56-ab73-20d3ffcccca5.jpg,S01063368,,"DESCRIPTION, QUANTITY, PRICE, SALES TAX, AMOUNT
+Black Tea
+QUANTITY: 2.00, PRICE: $5.00, SALES TAX: Yes, AMOUNT: $10.00
+","$4,763.45 ",,"[[116, 2772], [224, 2772], [224, 2796], [116, 2796]]","[[116, 2715], [227, 2715], [227, 2741], [116, 2741]]",,"[[2210, 2490], [2246, 2490], [2246, 2516], [2210, 2516]]"
+e2befb75-c0e9-4c7f-befd-3fc16e4b9acb.png,21,Dec 14 2016,"DESCRIPTION, QUANTITY, TOTAL PRICE
+DOORES AND WINDOWS ACCESORY, 2,000.00 Pcs, 100,000.00 USD
+Delivery Terms: CIF TRIPOLI PORT LIBYA, Shipment: 2x40ft Dry Containers, Port of Shipment: Port of Felixstowe, Payment: IRREVOCABLE CONFIRMED LETTER OF CREDIT, L/C Number: 53221Z2004, Account Holder: FLUID LIMITED Fluid Centre, 120 Pinehurst Road, Farnborough, KU12 7VG, UK, Bank: HSBC, IBAN EURO: GB15MLD40051512345678, Swift: MLDGB22I23
+",£775.00,Show Me Fashions,"[[1308, 187], [1586, 187], [1586, 271], [1308, 271]]",,,"[[1471, 1872], [1565, 1872], [1565, 1898], [1471, 1898]]"
+e32e1986-37d9-46c9-9e63-551a3e6ee83a.png,1,4/25/2019,"Ordered, This Shipment, To Follow, Unit Price, VAT, Item Total
+Samsung Galaxy Note 8 (SM-N950FZKABTU, 64GB, Black), Samsung Galaxy Note 8 Clear View Standing Cover (EF-ZN950CNEGWW Deep Blue)
+Quantity: 1, 1; Unit Price: 724.17 S, 40.83 S
+","$1,010.00 ",,"[[46, 184], [108, 184], [108, 208], [46, 208]]","[[49, 303], [93, 303], [93, 321], [49, 321]]",,"[[629, 782], [733, 782], [733, 810], [629, 810]]"
+e34b2104-7996-488f-a71a-af1819bd8f9f.png,25,1/3/2017,"DESCRIPTION, QTY, PRICE, TOTAL
+Web Design, Branding, Graphic Design, Web Development
+Quantity: 1, 1, 27, 1; Price Each: $200.00, $350.00, $55.00, $450.00
+",$10.60 ,"Boston Tea Enterprises, Inc.","[[40, 218], [135, 218], [135, 236], [40, 236]]","[[561, 255], [609, 255], [609, 269], [561, 269]]",,"[[569, 519], [609, 519], [609, 533], [569, 533]]"
+e45e92a6-3cd7-495a-8e47-ab95d1cdda3e.png,CI-10012014,10.JULY.2014,"ITEM NAME, HSN/SAC, QTY, PRICE/UNIT, DISCOUNT/UNIT, GST, AMOUNT
+1 - Wireless Mouse Robots, 8 Pcs at ₹1000.00 each, 12% GST, ₹8,960.00 Total; 2 - Herman Miller Executive Chair, 4 Pcs at ₹1000.00 each, 12% GST, ₹1,480.00 Total
+HSN/SAC Codes: 34895, Quantities: 8 Pcs, 4 Pcs
+","80,000.00 USD",FLUID LIMITED,"[[5, 197], [317, 197], [317, 213], [5, 213]]","[[429, 197], [511, 197], [511, 213], [429, 213]]",,"[[495, 461], [583, 461], [583, 475], [495, 475]]"
+e8d8c551-7a88-4f7d-bccf-4b205317b21e.jpg,123456789-SA,14-Sep-17,"Date, By, Services, Hours, Rates, Amount, Expenses
+A104 - Review/analyze, A105 - Communicate (in firm), E101 - Copying
+Hours: 2.30, 0.84, Total Hours: 3.14 hrs, Rates: $125.00/hr, Amount: $287.50, $105.00, Total Labor: $392.50, Amount: $43.95, Total Expenses: $43.95
+",£ 918.00,Samsung Electronics (UK) Ltd,"[[661, 2485], [849, 2485], [849, 2538], [661, 2538]]","[[1682, 1603], [1798, 1603], [1798, 1647], [1682, 1647]]",,"[[2132, 3007], [2161, 3007], [2161, 3044], [2132, 3044]]"
+ee3a5b7c-ed1b-4a89-9f36-ee403616cf5d.jpg,982093,,"Product Description, Amount
+NANO TWIST XTA, TATA NANO TWIST XTA, 273SI MPFI BS-IV PETROL ENGINE BS IV (EPAS), 5 SPEED TRANSAXLE, 5 NO WHEEL RDMS, 3 NOS 135/70R12 & 2 NOS 155/65/R12TYRES, 22230MM W.B. SEATING CAPACITY 3+ DRIVER, HVAC, COLOUR BANGRIA RED
+CHASSIS NO. MAT612263FKG12484, ENGINE NO. 273MPF11GUYK11531
+","$2,112.25 ",,"[[79, 175], [193, 175], [193, 187], [79, 187]]",,,"[[403, 481], [457, 481], [457, 495], [403, 495]]"
+f0cb78a6-b501-4962-8baa-e5d8180d625a.png,,,,,,"[[495, 843], [543, 843], [543, 855], [495, 855]]",,,"[[579, 915], [605, 915], [605, 927], [579, 927]]"
+f50b68b8-543f-48ef-999d-b1b142c1baeb.png,,,,,,"[[693, 617], [737, 617], [737, 633], [693, 633]]","[[181, 483], [245, 483], [245, 499], [181, 499]]",,"[[671, 663], [737, 663], [737, 679], [671, 679]]"
+fd28f5e7-fc19-4f23-8dec-9a87b40f1a15.jpg,,,,,,"[[1175, 1847], [1303, 1847], [1303, 1883], [1175, 1883]]","[[160, 1852], [218, 1852], [218, 1876], [160, 1876]]",,"[[1268, 1324], [1394, 1324], [1394, 1354], [1268, 1354]]"

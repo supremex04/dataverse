@@ -24,7 +24,7 @@ print(base64_loop(image_path))
 
 
 def addtotxt(api_response_string, imgname):
-  txt_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\testtableextract.txt"
+  txt_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\extractions\\testtableextract.txt"
   api_response_string = [imgname, api_response_string]
   with open(txt_file_path, 'a') as txt_file:
     txt_file.write(json.dumps(api_response_string) + '\n')

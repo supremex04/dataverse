@@ -14,7 +14,7 @@ for key, value in matches:
         data_list.append(current_item)
         current_item = {}
 
-csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\testtablekeys.csv"
+csv_file_path = "C:\\Users\\bhand\\Desktop\\OpenCV\\dataverse\\extractions\\testtablekeys.csv"
 
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
